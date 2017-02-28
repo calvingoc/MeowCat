@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982809550860",
+    "firebase_url": "https://meowcat-c2ee2.firebaseio.com",
+    "project_id": "meowcat-c2ee2",
+    "storage_bucket": "meowcat-c2ee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982809550860:android:aefc64fe53c1a110",
+        "android_client_info": {
+          "package_name": "online.cagocapps.meowcat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982809550860-d0cv55ced334jnn20g6kl06l3qtq9go6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.cagocapps.meowcat",
+            "certificate_hash": "79a05cbf2f60859f45e1e0bdedc0ebe06bc8b8bb"
+          }
+        },
+        {
+          "client_id": "982809550860-ipv13liuvkfr8unqtkj78kbrceqo600q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcOc295r20XWCMYoJmYv8iKVdN7liH7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982809550860-ipv13liuvkfr8unqtkj78kbrceqo600q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
